@@ -1,3 +1,4 @@
+# MicroServiceEcommerce-UserService
 USER SERVICE
 - responsible for handling account-related requests such as Authentication and Registration\
 
