@@ -1,7 +1,7 @@
-**UserService**
+USER SERVICE
 - responsible for handling account-related requests such as Authentication and Registration\
 
-**Prerequisites**
+PREREQUISITES
 - .NET SDK
 - Docker
 - Kubernetes (kubectl)
