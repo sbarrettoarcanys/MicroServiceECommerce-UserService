@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "goJXRe7tgsTe+fufmCzUmJJ79/h04E0o98VQiYdpBcQ=",
+  "Source": "ECommerce.UserService",
+  "BasePath": "_content/ECommerce.UserService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ECommerce.UserService\\wwwroot",
+      "Source": "ECommerce.UserService",
+      "ContentRoot": "C:\\Users\\sbarretto\\source\\MicroServiceECommerce UserService\\ECommerce.UserService\\wwwroot\\",
+      "BasePath": "_content/ECommerce.UserService",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}

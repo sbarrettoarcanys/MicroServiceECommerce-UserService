@@ -1,0 +1,576 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sbarretto\\source\\MicroServiceECommerce UserService\\ECommerce.UserService\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F130CBDB-CFE5-413C-BAE7-21E5B87F6E16}|ECommerce.UserService.csproj|c:\\users\\sbarretto\\source\\microserviceecommerce userservice\\ecommerce.userservice\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F130CBDB-CFE5-413C-BAE7-21E5B87F6E16}|ECommerce.UserService.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5337ED63-0083-4049-A6DD-B625BF02B194}|..\\ECommerce.UserService.BusinessLogic\\ECommerce.UserService.BusinessLogic.csproj|c:\\users\\sbarretto\\source\\microserviceecommerce userservice\\ecommerce.userservice.businesslogic\\managers\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5337ED63-0083-4049-A6DD-B625BF02B194}|..\\ECommerce.UserService.BusinessLogic\\ECommerce.UserService.BusinessLogic.csproj|c:\\users\\sbarretto\\source\\microserviceecommerce userservice\\ecommerce.userservice.businesslogic\\managers\\messagebusclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F130CBDB-CFE5-413C-BAE7-21E5B87F6E16}|ECommerce.UserService.csproj|c:\\users\\sbarretto\\source\\microserviceecommerce userservice\\ecommerce.userservice\\appsettings.production.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F130CBDB-CFE5-413C-BAE7-21E5B87F6E16}|ECommerce.UserService.csproj|solutionrelative:appsettings.production.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F130CBDB-CFE5-413C-BAE7-21E5B87F6E16}|ECommerce.UserService.csproj|c:\\users\\sbarretto\\source\\microserviceecommerce userservice\\ecommerce.userservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F130CBDB-CFE5-413C-BAE7-21E5B87F6E16}|ECommerce.UserService.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8FDA8D1-7FF6-4905-92EA-146484C11D10}|..\\ECommerce.UserService.DataAccess\\ECommerce.UserService.DataAccess.csproj|c:\\users\\sbarretto\\source\\microserviceecommerce userservice\\ecommerce.userservice.dataaccess\\dbinitializer\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78C16786-6AC5-4F35-AE90-920CBB87AD18}|..\\ECommerce.UserService.Model\\ECommerce.UserService.Models.csproj|c:\\users\\sbarretto\\source\\microserviceecommerce userservice\\ecommerce.userservice.model\\viewmodels\\userviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5337ED63-0083-4049-A6DD-B625BF02B194}|..\\ECommerce.UserService.BusinessLogic\\ECommerce.UserService.BusinessLogic.csproj|c:\\users\\sbarretto\\source\\microserviceecommerce userservice\\ecommerce.userservice.businesslogic\\managers\\jwttokengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78C16786-6AC5-4F35-AE90-920CBB87AD18}|..\\ECommerce.UserService.Model\\ECommerce.UserService.Models.csproj|c:\\users\\sbarretto\\source\\microserviceecommerce userservice\\ecommerce.userservice.model\\viewmodels\\registrationrequestviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F130CBDB-CFE5-413C-BAE7-21E5B87F6E16}|ECommerce.UserService.csproj|c:\\users\\sbarretto\\source\\microserviceecommerce userservice\\ecommerce.userservice\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F130CBDB-CFE5-413C-BAE7-21E5B87F6E16}|ECommerce.UserService.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5337ED63-0083-4049-A6DD-B625BF02B194}|..\\ECommerce.UserService.BusinessLogic\\ECommerce.UserService.BusinessLogic.csproj|c:\\users\\sbarretto\\source\\microserviceecommerce userservice\\ecommerce.userservice.businesslogic\\imanagers\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5337ED63-0083-4049-A6DD-B625BF02B194}|..\\ECommerce.UserService.BusinessLogic\\ECommerce.UserService.BusinessLogic.csproj|c:\\users\\sbarretto\\source\\microserviceecommerce userservice\\ecommerce.userservice.businesslogic\\imanagers\\imessagebusclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F130CBDB-CFE5-413C-BAE7-21E5B87F6E16}|ECommerce.UserService.csproj|c:\\users\\sbarretto\\source\\microserviceecommerce userservice\\ecommerce.userservice\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{F130CBDB-CFE5-413C-BAE7-21E5B87F6E16}|ECommerce.UserService.csproj|solutionrelative:dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50872CC6-5F18-4811-8460-706359B3EBF8}|..\\ECommerce.UserService.Utility\\ECommerce.UserService.Utility.csproj|c:\\users\\sbarretto\\source\\microserviceecommerce userservice\\ecommerce.userservice.utility\\ecommerce.userservice.utility.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F130CBDB-CFE5-413C-BAE7-21E5B87F6E16}|ECommerce.UserService.csproj|c:\\users\\sbarretto\\source\\microserviceecommerce userservice\\ecommerce.userservice\\ecommerce.userservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F130CBDB-CFE5-413C-BAE7-21E5B87F6E16}|ECommerce.UserService.csproj|solutionrelative:ecommerce.userservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F130CBDB-CFE5-413C-BAE7-21E5B87F6E16}|ECommerce.UserService.csproj|c:\\users\\sbarretto\\source\\microserviceecommerce userservice\\ecommerce.userservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F130CBDB-CFE5-413C-BAE7-21E5B87F6E16}|ECommerce.UserService.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sbarretto\\source\\MicroServiceECommerce UserService\\ECommerce.DataAccess\\Repository\\UnitOfWork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sbarretto\\source\\MicroServiceECommerce UserService\\ECommerce.BusinessLogic\\Managers\\TokenProvider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sbarretto\\source\\MicroServiceECommerce UserService\\ECommerce.BusinessLogic\\IManagers\\IAuthService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sbarretto\\source\\MicroServiceECommerce UserService\\ECommerce.Utility\\ConstantValues.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sbarretto\\source\\MicroServiceECommerce UserService\\ECommerce.Model\\ViewModels\\LoginRequestViewModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sbarretto\\source\\MicroServiceECommerce UserService\\ECommerce.Model\\ViewModels\\JwtOptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sbarretto\\source\\MicroServiceECommerce UserService\\ECommerce.Model\\Models\\ApplicationUser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sbarretto\\source\\MicroServiceECommerce UserService\\ECommerce.DataAccess\\Repository\\Repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sbarretto\\source\\MicroServiceECommerce UserService\\ECommerce.DataAccess\\Repository\\ApplicationUserRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sbarretto\\source\\MicroServiceECommerce UserService\\ECommerce.DataAccess\\Repository\\IRepository\\IUnitOfWork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sbarretto\\source\\MicroServiceECommerce UserService\\ECommerce.DataAccess\\Repository\\IRepository\\IRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sbarretto\\source\\MicroServiceECommerce UserService\\ECommerce.DataAccess\\Migrations\\ApplicationDbContextModelSnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sbarretto\\source\\MicroServiceECommerce UserService\\ECommerce.DataAccess\\Repository\\IRepository\\IApplicationUserRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sbarretto\\source\\MicroServiceECommerce UserService\\ECommerce.DataAccess\\Migrations\\20240904121211_InitialDBSetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sbarretto\\source\\MicroServiceECommerce UserService\\ECommerce.DataAccess\\DBInitializer\\IDBInitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sbarretto\\source\\MicroServiceECommerce UserService\\ECommerce.DataAccess\\DBInitializer\\DBInitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sbarretto\\source\\MicroServiceECommerce UserService\\ECommerce.DataAccess\\Data\\ApplicationDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sbarretto\\source\\MicroServiceECommerce UserService\\ECommerce.BusinessLogic\\Managers\\JwtTokenGenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sbarretto\\source\\MicroServiceECommerce UserService\\ECommerce.BusinessLogic\\IManagers\\ITokenProvider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sbarretto\\source\\MicroServiceECommerce UserService\\ECommerce.BusinessLogic\\IManagers\\IJwtTokenGenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sbarretto\\source\\MicroServiceECommerce UserService\\ECommerce.Model\\ViewModels\\UserViewModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\sbarretto\\source\\MicroServiceECommerce UserService\\ECommerce.UserService\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\sbarretto\\source\\MicroServiceECommerce UserService\\ECommerce.UserService\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Controllers\\UserController.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAYwCEAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T12:15:22.283Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\sbarretto\\source\\MicroServiceECommerce UserService\\ECommerce.DataAccess\\Repository\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "..\\ECommerce.DataAccess\\Repository\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\sbarretto\\source\\MicroServiceECommerce UserService\\ECommerce.DataAccess\\Repository\\UnitOfWork.cs",
+              "RelativeToolTip": "..\\ECommerce.DataAccess\\Repository\\UnitOfWork.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T11:32:19.77Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "TokenProvider.cs",
+              "DocumentMoniker": "C:\\Users\\sbarretto\\source\\MicroServiceECommerce UserService\\ECommerce.BusinessLogic\\Managers\\TokenProvider.cs",
+              "RelativeDocumentMoniker": "..\\ECommerce.BusinessLogic\\Managers\\TokenProvider.cs",
+              "ToolTip": "C:\\Users\\sbarretto\\source\\MicroServiceECommerce UserService\\ECommerce.BusinessLogic\\Managers\\TokenProvider.cs",
+              "RelativeToolTip": "..\\ECommerce.BusinessLogic\\Managers\\TokenProvider.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T10:23:58.127Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sbarretto\\source\\MicroServiceECommerce UserService\\ECommerce.UserService\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\sbarretto\\source\\MicroServiceECommerce UserService\\ECommerce.UserService\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAACoAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T09:42:50.752Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IMessageBusClient.cs",
+              "DocumentMoniker": "C:\\Users\\sbarretto\\source\\MicroServiceECommerce UserService\\ECommerce.UserService.BusinessLogic\\IManagers\\IMessageBusClient.cs",
+              "RelativeDocumentMoniker": "..\\ECommerce.UserService.BusinessLogic\\IManagers\\IMessageBusClient.cs",
+              "ToolTip": "C:\\Users\\sbarretto\\source\\MicroServiceECommerce UserService\\ECommerce.UserService.BusinessLogic\\IManagers\\IMessageBusClient.cs",
+              "RelativeToolTip": "..\\ECommerce.UserService.BusinessLogic\\IManagers\\IMessageBusClient.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAsAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T04:52:16.872Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MessageBusClient.cs",
+              "DocumentMoniker": "C:\\Users\\sbarretto\\source\\MicroServiceECommerce UserService\\ECommerce.UserService.BusinessLogic\\Managers\\MessageBusClient.cs",
+              "RelativeDocumentMoniker": "..\\ECommerce.UserService.BusinessLogic\\Managers\\MessageBusClient.cs",
+              "ToolTip": "C:\\Users\\sbarretto\\source\\MicroServiceECommerce UserService\\ECommerce.UserService.BusinessLogic\\Managers\\MessageBusClient.cs",
+              "RelativeToolTip": "..\\ECommerce.UserService.BusinessLogic\\Managers\\MessageBusClient.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAuwDAAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T04:51:25.55Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\sbarretto\\source\\MicroServiceECommerce UserService\\ECommerce.UserService.BusinessLogic\\Managers\\AuthService.cs",
+              "RelativeDocumentMoniker": "..\\ECommerce.UserService.BusinessLogic\\Managers\\AuthService.cs",
+              "ToolTip": "C:\\Users\\sbarretto\\source\\MicroServiceECommerce UserService\\ECommerce.UserService.BusinessLogic\\Managers\\AuthService.cs",
+              "RelativeToolTip": "..\\ECommerce.UserService.BusinessLogic\\Managers\\AuthService.cs",
+              "ViewState": "AQIAAFIAAAAAAAAAAAAkwHcAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T06:21:28.388Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.Production.json",
+              "DocumentMoniker": "C:\\Users\\sbarretto\\source\\MicroServiceECommerce UserService\\ECommerce.UserService\\appsettings.Production.json",
+              "RelativeDocumentMoniker": "appsettings.Production.json",
+              "ToolTip": "C:\\Users\\sbarretto\\source\\MicroServiceECommerce UserService\\ECommerce.UserService\\appsettings.Production.json",
+              "RelativeToolTip": "appsettings.Production.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-12T09:16:03.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RegistrationRequestViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\sbarretto\\source\\MicroServiceECommerce UserService\\ECommerce.UserService.Model\\ViewModels\\RegistrationRequestViewModel.cs",
+              "RelativeDocumentMoniker": "..\\ECommerce.UserService.Model\\ViewModels\\RegistrationRequestViewModel.cs",
+              "ToolTip": "C:\\Users\\sbarretto\\source\\MicroServiceECommerce UserService\\ECommerce.UserService.Model\\ViewModels\\RegistrationRequestViewModel.cs",
+              "RelativeToolTip": "..\\ECommerce.UserService.Model\\ViewModels\\RegistrationRequestViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAYAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T09:36:19.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\sbarretto\\source\\MicroServiceECommerce UserService\\ECommerce.UserService.Model\\ViewModels\\UserViewModel.cs",
+              "RelativeDocumentMoniker": "..\\ECommerce.UserService.Model\\ViewModels\\UserViewModel.cs",
+              "ToolTip": "C:\\Users\\sbarretto\\source\\MicroServiceECommerce UserService\\ECommerce.UserService.Model\\ViewModels\\UserViewModel.cs",
+              "RelativeToolTip": "..\\ECommerce.UserService.Model\\ViewModels\\UserViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T06:34:38.752Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DBInitializer.cs",
+              "DocumentMoniker": "C:\\Users\\sbarretto\\source\\MicroServiceECommerce UserService\\ECommerce.UserService.DataAccess\\DBInitializer\\DBInitializer.cs",
+              "RelativeDocumentMoniker": "..\\ECommerce.UserService.DataAccess\\DBInitializer\\DBInitializer.cs",
+              "ToolTip": "C:\\Users\\sbarretto\\source\\MicroServiceECommerce UserService\\ECommerce.UserService.DataAccess\\DBInitializer\\DBInitializer.cs",
+              "RelativeToolTip": "..\\ECommerce.UserService.DataAccess\\DBInitializer\\DBInitializer.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAuwDcAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T08:11:26.27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\sbarretto\\source\\MicroServiceECommerce UserService\\ECommerce.UserService\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "C:\\Users\\sbarretto\\source\\MicroServiceECommerce UserService\\ECommerce.UserService\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-12T09:16:10.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\sbarretto\\source\\MicroServiceECommerce UserService\\ECommerce.UserService.BusinessLogic\\IManagers\\IAuthService.cs",
+              "RelativeDocumentMoniker": "..\\ECommerce.UserService.BusinessLogic\\IManagers\\IAuthService.cs",
+              "ToolTip": "C:\\Users\\sbarretto\\source\\MicroServiceECommerce UserService\\ECommerce.UserService.BusinessLogic\\IManagers\\IAuthService.cs",
+              "RelativeToolTip": "..\\ECommerce.UserService.BusinessLogic\\IManagers\\IAuthService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAsAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T06:51:49.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "JwtTokenGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\sbarretto\\source\\MicroServiceECommerce UserService\\ECommerce.UserService.BusinessLogic\\Managers\\JwtTokenGenerator.cs",
+              "RelativeDocumentMoniker": "..\\ECommerce.UserService.BusinessLogic\\Managers\\JwtTokenGenerator.cs",
+              "ToolTip": "C:\\Users\\sbarretto\\source\\MicroServiceECommerce UserService\\ECommerce.UserService.BusinessLogic\\Managers\\JwtTokenGenerator.cs",
+              "RelativeToolTip": "..\\ECommerce.UserService.BusinessLogic\\Managers\\JwtTokenGenerator.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAWwDUAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T06:50:39.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\sbarretto\\source\\MicroServiceECommerce UserService\\ECommerce.UserService\\Dockerfile",
+              "RelativeDocumentMoniker": "Dockerfile",
+              "ToolTip": "C:\\Users\\sbarretto\\source\\MicroServiceECommerce UserService\\ECommerce.UserService\\Dockerfile",
+              "RelativeToolTip": "Dockerfile",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-09-11T01:21:48.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ECommerce.UserService.Utility.csproj",
+              "DocumentMoniker": "C:\\Users\\sbarretto\\source\\MicroServiceECommerce UserService\\ECommerce.UserService.Utility\\ECommerce.UserService.Utility.csproj",
+              "RelativeDocumentMoniker": "..\\ECommerce.UserService.Utility\\ECommerce.UserService.Utility.csproj",
+              "ToolTip": "C:\\Users\\sbarretto\\source\\MicroServiceECommerce UserService\\ECommerce.UserService.Utility\\ECommerce.UserService.Utility.csproj",
+              "RelativeToolTip": "..\\ECommerce.UserService.Utility\\ECommerce.UserService.Utility.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-11T02:45:24.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ECommerce.UserService.csproj",
+              "DocumentMoniker": "C:\\Users\\sbarretto\\source\\MicroServiceECommerce UserService\\ECommerce.UserService\\ECommerce.UserService.csproj",
+              "RelativeDocumentMoniker": "ECommerce.UserService.csproj",
+              "ToolTip": "C:\\Users\\sbarretto\\source\\MicroServiceECommerce UserService\\ECommerce.UserService\\ECommerce.UserService.csproj",
+              "RelativeToolTip": "ECommerce.UserService.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAxwAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-05T06:08:25.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\sbarretto\\source\\MicroServiceECommerce UserService\\ECommerce.BusinessLogic\\IManagers\\IAuthService.cs",
+              "RelativeDocumentMoniker": "..\\ECommerce.BusinessLogic\\IManagers\\IAuthService.cs",
+              "ToolTip": "C:\\Users\\sbarretto\\source\\MicroServiceECommerce UserService\\ECommerce.BusinessLogic\\IManagers\\IAuthService.cs",
+              "RelativeToolTip": "..\\ECommerce.BusinessLogic\\IManagers\\IAuthService.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T11:44:04.018Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ConstantValues.cs",
+              "DocumentMoniker": "C:\\Users\\sbarretto\\source\\MicroServiceECommerce UserService\\ECommerce.Utility\\ConstantValues.cs",
+              "RelativeDocumentMoniker": "..\\ECommerce.Utility\\ConstantValues.cs",
+              "ToolTip": "C:\\Users\\sbarretto\\source\\MicroServiceECommerce UserService\\ECommerce.Utility\\ConstantValues.cs",
+              "RelativeToolTip": "..\\ECommerce.Utility\\ConstantValues.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T11:27:46.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "LoginRequestViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\sbarretto\\source\\MicroServiceECommerce UserService\\ECommerce.Model\\ViewModels\\LoginRequestViewModel.cs",
+              "RelativeDocumentMoniker": "..\\ECommerce.Model\\ViewModels\\LoginRequestViewModel.cs",
+              "ToolTip": "C:\\Users\\sbarretto\\source\\MicroServiceECommerce UserService\\ECommerce.Model\\ViewModels\\LoginRequestViewModel.cs",
+              "RelativeToolTip": "..\\ECommerce.Model\\ViewModels\\LoginRequestViewModel.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T11:56:21.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "JwtOptions.cs",
+              "DocumentMoniker": "C:\\Users\\sbarretto\\source\\MicroServiceECommerce UserService\\ECommerce.Model\\ViewModels\\JwtOptions.cs",
+              "RelativeDocumentMoniker": "..\\ECommerce.Model\\ViewModels\\JwtOptions.cs",
+              "ToolTip": "C:\\Users\\sbarretto\\source\\MicroServiceECommerce UserService\\ECommerce.Model\\ViewModels\\JwtOptions.cs",
+              "RelativeToolTip": "..\\ECommerce.Model\\ViewModels\\JwtOptions.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T11:41:22.52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\sbarretto\\source\\MicroServiceECommerce UserService\\ECommerce.Model\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "..\\ECommerce.Model\\Models\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\sbarretto\\source\\MicroServiceECommerce UserService\\ECommerce.Model\\Models\\ApplicationUser.cs",
+              "RelativeToolTip": "..\\ECommerce.Model\\Models\\ApplicationUser.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T11:55:32.298Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\sbarretto\\source\\MicroServiceECommerce UserService\\ECommerce.DataAccess\\Repository\\Repository.cs",
+              "RelativeDocumentMoniker": "..\\ECommerce.DataAccess\\Repository\\Repository.cs",
+              "ToolTip": "C:\\Users\\sbarretto\\source\\MicroServiceECommerce UserService\\ECommerce.DataAccess\\Repository\\Repository.cs",
+              "RelativeToolTip": "..\\ECommerce.DataAccess\\Repository\\Repository.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T11:18:56.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ApplicationUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sbarretto\\source\\MicroServiceECommerce UserService\\ECommerce.DataAccess\\Repository\\ApplicationUserRepository.cs",
+              "RelativeDocumentMoniker": "..\\ECommerce.DataAccess\\Repository\\ApplicationUserRepository.cs",
+              "ToolTip": "C:\\Users\\sbarretto\\source\\MicroServiceECommerce UserService\\ECommerce.DataAccess\\Repository\\ApplicationUserRepository.cs",
+              "RelativeToolTip": "..\\ECommerce.DataAccess\\Repository\\ApplicationUserRepository.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T07:56:25.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\sbarretto\\source\\MicroServiceECommerce UserService\\ECommerce.DataAccess\\Repository\\IRepository\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "..\\ECommerce.DataAccess\\Repository\\IRepository\\IUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\sbarretto\\source\\MicroServiceECommerce UserService\\ECommerce.DataAccess\\Repository\\IRepository\\IUnitOfWork.cs",
+              "RelativeToolTip": "..\\ECommerce.DataAccess\\Repository\\IRepository\\IUnitOfWork.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T11:32:40.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sbarretto\\source\\MicroServiceECommerce UserService\\ECommerce.DataAccess\\Repository\\IRepository\\IRepository.cs",
+              "RelativeDocumentMoniker": "..\\ECommerce.DataAccess\\Repository\\IRepository\\IRepository.cs",
+              "ToolTip": "C:\\Users\\sbarretto\\source\\MicroServiceECommerce UserService\\ECommerce.DataAccess\\Repository\\IRepository\\IRepository.cs",
+              "RelativeToolTip": "..\\ECommerce.DataAccess\\Repository\\IRepository\\IRepository.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T11:46:01.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\sbarretto\\source\\MicroServiceECommerce UserService\\ECommerce.DataAccess\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "..\\ECommerce.DataAccess\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\sbarretto\\source\\MicroServiceECommerce UserService\\ECommerce.DataAccess\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "..\\ECommerce.DataAccess\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T11:17:50.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "IApplicationUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sbarretto\\source\\MicroServiceECommerce UserService\\ECommerce.DataAccess\\Repository\\IRepository\\IApplicationUserRepository.cs",
+              "RelativeDocumentMoniker": "..\\ECommerce.DataAccess\\Repository\\IRepository\\IApplicationUserRepository.cs",
+              "ToolTip": "C:\\Users\\sbarretto\\source\\MicroServiceECommerce UserService\\ECommerce.DataAccess\\Repository\\IRepository\\IApplicationUserRepository.cs",
+              "RelativeToolTip": "..\\ECommerce.DataAccess\\Repository\\IRepository\\IApplicationUserRepository.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T06:35:43.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "20240904121211_InitialDBSetup.cs",
+              "DocumentMoniker": "C:\\Users\\sbarretto\\source\\MicroServiceECommerce UserService\\ECommerce.DataAccess\\Migrations\\20240904121211_InitialDBSetup.cs",
+              "RelativeDocumentMoniker": "..\\ECommerce.DataAccess\\Migrations\\20240904121211_InitialDBSetup.cs",
+              "ToolTip": "C:\\Users\\sbarretto\\source\\MicroServiceECommerce UserService\\ECommerce.DataAccess\\Migrations\\20240904121211_InitialDBSetup.cs",
+              "RelativeToolTip": "..\\ECommerce.DataAccess\\Migrations\\20240904121211_InitialDBSetup.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T11:44:58.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "IDBInitializer.cs",
+              "DocumentMoniker": "C:\\Users\\sbarretto\\source\\MicroServiceECommerce UserService\\ECommerce.DataAccess\\DBInitializer\\IDBInitializer.cs",
+              "RelativeDocumentMoniker": "..\\ECommerce.DataAccess\\DBInitializer\\IDBInitializer.cs",
+              "ToolTip": "C:\\Users\\sbarretto\\source\\MicroServiceECommerce UserService\\ECommerce.DataAccess\\DBInitializer\\IDBInitializer.cs",
+              "RelativeToolTip": "..\\ECommerce.DataAccess\\DBInitializer\\IDBInitializer.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T06:52:23.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "DBInitializer.cs",
+              "DocumentMoniker": "C:\\Users\\sbarretto\\source\\MicroServiceECommerce UserService\\ECommerce.DataAccess\\DBInitializer\\DBInitializer.cs",
+              "RelativeDocumentMoniker": "..\\ECommerce.DataAccess\\DBInitializer\\DBInitializer.cs",
+              "ToolTip": "C:\\Users\\sbarretto\\source\\MicroServiceECommerce UserService\\ECommerce.DataAccess\\DBInitializer\\DBInitializer.cs",
+              "RelativeToolTip": "..\\ECommerce.DataAccess\\DBInitializer\\DBInitializer.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T05:58:53.413Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\sbarretto\\source\\MicroServiceECommerce UserService\\ECommerce.DataAccess\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "..\\ECommerce.DataAccess\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\sbarretto\\source\\MicroServiceECommerce UserService\\ECommerce.DataAccess\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "..\\ECommerce.DataAccess\\Data\\ApplicationDbContext.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T11:12:38.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "JwtTokenGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\sbarretto\\source\\MicroServiceECommerce UserService\\ECommerce.BusinessLogic\\Managers\\JwtTokenGenerator.cs",
+              "RelativeDocumentMoniker": "..\\ECommerce.BusinessLogic\\Managers\\JwtTokenGenerator.cs",
+              "ToolTip": "C:\\Users\\sbarretto\\source\\MicroServiceECommerce UserService\\ECommerce.BusinessLogic\\Managers\\JwtTokenGenerator.cs",
+              "RelativeToolTip": "..\\ECommerce.BusinessLogic\\Managers\\JwtTokenGenerator.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T11:53:40.513Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "ITokenProvider.cs",
+              "DocumentMoniker": "C:\\Users\\sbarretto\\source\\MicroServiceECommerce UserService\\ECommerce.BusinessLogic\\IManagers\\ITokenProvider.cs",
+              "RelativeDocumentMoniker": "..\\ECommerce.BusinessLogic\\IManagers\\ITokenProvider.cs",
+              "ToolTip": "C:\\Users\\sbarretto\\source\\MicroServiceECommerce UserService\\ECommerce.BusinessLogic\\IManagers\\ITokenProvider.cs",
+              "RelativeToolTip": "..\\ECommerce.BusinessLogic\\IManagers\\ITokenProvider.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T10:24:21.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "IJwtTokenGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\sbarretto\\source\\MicroServiceECommerce UserService\\ECommerce.BusinessLogic\\IManagers\\IJwtTokenGenerator.cs",
+              "RelativeDocumentMoniker": "..\\ECommerce.BusinessLogic\\IManagers\\IJwtTokenGenerator.cs",
+              "ToolTip": "C:\\Users\\sbarretto\\source\\MicroServiceECommerce UserService\\ECommerce.BusinessLogic\\IManagers\\IJwtTokenGenerator.cs",
+              "RelativeToolTip": "..\\ECommerce.BusinessLogic\\IManagers\\IJwtTokenGenerator.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T11:54:26.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\sbarretto\\source\\MicroServiceECommerce UserService\\ECommerce.UserService\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\sbarretto\\source\\MicroServiceECommerce UserService\\ECommerce.UserService\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACoAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-04T10:06:59.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "UserViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\sbarretto\\source\\MicroServiceECommerce UserService\\ECommerce.Model\\ViewModels\\UserViewModel.cs",
+              "RelativeDocumentMoniker": "..\\ECommerce.Model\\ViewModels\\UserViewModel.cs",
+              "ToolTip": "C:\\Users\\sbarretto\\source\\MicroServiceECommerce UserService\\ECommerce.Model\\ViewModels\\UserViewModel.cs",
+              "RelativeToolTip": "..\\ECommerce.Model\\ViewModels\\UserViewModel.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T12:02:49.523Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

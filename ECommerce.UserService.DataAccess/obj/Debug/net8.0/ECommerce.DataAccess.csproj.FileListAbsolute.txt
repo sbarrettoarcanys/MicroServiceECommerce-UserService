@@ -1,0 +1,39 @@
+C:\Users\sbarretto\source\repos\ECommerce.DataAccess\bin\Debug\net8.0\ECommerce.DataAccess.deps.json
+C:\Users\sbarretto\source\repos\ECommerce.DataAccess\bin\Debug\net8.0\ECommerce.DataAccess.runtimeconfig.json
+C:\Users\sbarretto\source\repos\ECommerce.DataAccess\bin\Debug\net8.0\ECommerce.DataAccess.dll
+C:\Users\sbarretto\source\repos\ECommerce.DataAccess\bin\Debug\net8.0\ECommerce.DataAccess.pdb
+C:\Users\sbarretto\source\repos\ECommerce.DataAccess\bin\Debug\net8.0\ECommerce.Models.dll
+C:\Users\sbarretto\source\repos\ECommerce.DataAccess\bin\Debug\net8.0\ECommerce.Utility.dll
+C:\Users\sbarretto\source\repos\ECommerce.DataAccess\bin\Debug\net8.0\ECommerce.Models.pdb
+C:\Users\sbarretto\source\repos\ECommerce.DataAccess\bin\Debug\net8.0\ECommerce.Utility.pdb
+C:\Users\sbarretto\source\repos\ECommerce.DataAccess\obj\Debug\net8.0\ECommerce.DataAccess.csproj.AssemblyReference.cache
+C:\Users\sbarretto\source\repos\ECommerce.DataAccess\obj\Debug\net8.0\ECommerce.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sbarretto\source\repos\ECommerce.DataAccess\obj\Debug\net8.0\ECommerce.DataAccess.AssemblyInfoInputs.cache
+C:\Users\sbarretto\source\repos\ECommerce.DataAccess\obj\Debug\net8.0\ECommerce.DataAccess.AssemblyInfo.cs
+C:\Users\sbarretto\source\repos\ECommerce.DataAccess\obj\Debug\net8.0\ECommerce.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\sbarretto\source\repos\ECommerce.DataAccess\obj\Debug\net8.0\ECommerc.6DA24EC5.Up2Date
+C:\Users\sbarretto\source\repos\ECommerce.DataAccess\obj\Debug\net8.0\ECommerce.DataAccess.dll
+C:\Users\sbarretto\source\repos\ECommerce.DataAccess\obj\Debug\net8.0\refint\ECommerce.DataAccess.dll
+C:\Users\sbarretto\source\repos\ECommerce.DataAccess\obj\Debug\net8.0\ECommerce.DataAccess.pdb
+C:\Users\sbarretto\source\repos\ECommerce.DataAccess\obj\Debug\net8.0\ECommerce.DataAccess.genruntimeconfig.cache
+C:\Users\sbarretto\source\repos\ECommerce.DataAccess\obj\Debug\net8.0\ref\ECommerce.DataAccess.dll
+C:\Users\sbarretto\source\MicroServiceECommerce UserService\ECommerce.DataAccess\bin\Debug\net8.0\ECommerce.DataAccess.deps.json
+C:\Users\sbarretto\source\MicroServiceECommerce UserService\ECommerce.DataAccess\bin\Debug\net8.0\ECommerce.DataAccess.runtimeconfig.json
+C:\Users\sbarretto\source\MicroServiceECommerce UserService\ECommerce.DataAccess\bin\Debug\net8.0\ECommerce.DataAccess.dll
+C:\Users\sbarretto\source\MicroServiceECommerce UserService\ECommerce.DataAccess\bin\Debug\net8.0\ECommerce.DataAccess.pdb
+C:\Users\sbarretto\source\MicroServiceECommerce UserService\ECommerce.DataAccess\bin\Debug\net8.0\ECommerce.Models.dll
+C:\Users\sbarretto\source\MicroServiceECommerce UserService\ECommerce.DataAccess\bin\Debug\net8.0\ECommerce.Utility.dll
+C:\Users\sbarretto\source\MicroServiceECommerce UserService\ECommerce.DataAccess\bin\Debug\net8.0\ECommerce.Models.pdb
+C:\Users\sbarretto\source\MicroServiceECommerce UserService\ECommerce.DataAccess\bin\Debug\net8.0\ECommerce.Utility.pdb
+C:\Users\sbarretto\source\MicroServiceECommerce UserService\ECommerce.DataAccess\obj\Debug\net8.0\ECommerce.DataAccess.csproj.AssemblyReference.cache
+C:\Users\sbarretto\source\MicroServiceECommerce UserService\ECommerce.DataAccess\obj\Debug\net8.0\ECommerce.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sbarretto\source\MicroServiceECommerce UserService\ECommerce.DataAccess\obj\Debug\net8.0\ECommerce.DataAccess.AssemblyInfoInputs.cache
+C:\Users\sbarretto\source\MicroServiceECommerce UserService\ECommerce.DataAccess\obj\Debug\net8.0\ECommerce.DataAccess.AssemblyInfo.cs
+C:\Users\sbarretto\source\MicroServiceECommerce UserService\ECommerce.DataAccess\obj\Debug\net8.0\ECommerce.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\sbarretto\source\MicroServiceECommerce UserService\ECommerce.DataAccess\obj\Debug\net8.0\ECommerce.DataAccess.sourcelink.json
+C:\Users\sbarretto\source\MicroServiceECommerce UserService\ECommerce.DataAccess\obj\Debug\net8.0\ECommerc.6DA24EC5.Up2Date
+C:\Users\sbarretto\source\MicroServiceECommerce UserService\ECommerce.DataAccess\obj\Debug\net8.0\ECommerce.DataAccess.dll
+C:\Users\sbarretto\source\MicroServiceECommerce UserService\ECommerce.DataAccess\obj\Debug\net8.0\refint\ECommerce.DataAccess.dll
+C:\Users\sbarretto\source\MicroServiceECommerce UserService\ECommerce.DataAccess\obj\Debug\net8.0\ECommerce.DataAccess.pdb
+C:\Users\sbarretto\source\MicroServiceECommerce UserService\ECommerce.DataAccess\obj\Debug\net8.0\ECommerce.DataAccess.genruntimeconfig.cache
+C:\Users\sbarretto\source\MicroServiceECommerce UserService\ECommerce.DataAccess\obj\Debug\net8.0\ref\ECommerce.DataAccess.dll
